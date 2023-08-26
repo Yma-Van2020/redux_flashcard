@@ -1,13 +1,6 @@
-# Flashcards :card_file_box:
+# Flashcards redux project
 
-Project developed during the Front-end Engineer Path from the codecademy curriculum. The goals of this project were to put the material taught from React-Redux and the Redux Tool Kit to the test, as well as the following goals:
-
-+ configure individual slices modules using **createSlice()**; ('@reduxjs/toolkit')
-+ configure a store module wth **configureStore()** and the individual slice modules. ('@reduxjs/toolkit')
-+ use **useSelector()** in conjunction with the defined selectors in each individual state slices to access the **Store**; ('react-redux)
-+ create **selector**'s to access the states for manipulation; ('react-redux')
-+ with **useDispatch()** dispatch actions to the store to update rendering; ('react-redux')
-+ understand the view => middleware => Action (dispatch) => view Redux workflow
+In this project, I practiced using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app. Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. Users will also be able to interact with their quizzes by flipping flashcards over.
 
 ---
 
